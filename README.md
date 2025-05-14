@@ -1,9 +1,7 @@
-**🫀 Heart Disease Dataset Exploratory Analysis
-**
+**🫀 Heart Disease Dataset Exploratory Analysis**
 This Jupyter Notebook focuses on performing exploratory data analysis (EDA) on a heart disease dataset. The aim is to understand the distribution of various medical features and their relationship with the presence of heart disease.
 
-**📊 Key Steps Covered in the Notebook:
-**
+**📊 Key Steps Covered in the Notebook:**
 Overview of the dataset’s size and structure
 
 Identification and handling of null and duplicate values
@@ -24,5 +22,5 @@ Visualization of correlations using a heatmap
 
 Comparison of heart disease prevalence across different feature groups
 
-**📌 Note:
-**This notebook primarily focuses on data understanding and visualization. It does not include machine learning model training or evaluation.
+**📌 Note:**
+This notebook primarily focuses on data understanding and visualization. It does not include machine learning model training or evaluation.
